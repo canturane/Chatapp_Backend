@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\models\\returnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\models\\returnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\helpers\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\helpers\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\mapping\\myprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\mapping\\myprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\group\\groupupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\group\\groupupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\group\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\group\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\group\\groupcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\group\\groupcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF4DDB5-A154-4BC9-AFAF-B3CD4FCC1DD1}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\message\\messageupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\message\\messageupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\message\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\message\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\message\\messagecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\message\\messagecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\user\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\user\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\models\\user\\usercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\models\\user\\usercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\chatapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\chatapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\grouprepository\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\grouprepository\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\messagerepository\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\messagerepository\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\services\\message\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\services\\message\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\services\\group\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\services\\group\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\services\\group\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\services\\group\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.services\\services\\message\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C75B7E-DC26-4DF7-9D6B-4AF26B8175D9}|ChatApp.Services\\ChatApp.Services.csproj|solutionrelative:chatapp.services\\services\\message\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\repositories\\messagerepository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\repositories\\messagerepository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|c:\\users\\salih can\\onedrive\\masa\u00FCst\u00FC\\chatapp\\chatapp\\chatapp.data\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908075FF-5E1C-4352-BCF1-99361A7D4309}|ChatApp.Data\\ChatApp.Data.csproj|solutionrelative:chatapp.data\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\appsettings.json",
+              "RelativeToolTip": "ChatApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T13:26:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeToolTip": "ChatApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:59:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:09:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:25:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ChatApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\appsettings.Development.json",
+              "RelativeToolTip": "ChatApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T13:25:08.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\UserRepository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\UserRepository\\UserRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:11:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ChatApp\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:22:41.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\User\\IUserService.cs",
+              "RelativeToolTip": "ChatApp.Services\\Services\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:42:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReturnModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Models\\ReturnModel.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Models\\ReturnModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Models\\ReturnModel.cs",
+              "RelativeToolTip": "ChatApp\\Models\\ReturnModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:30:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:14:44.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Helpers\\JwtToken.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Helpers\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Helpers\\JwtToken.cs",
+              "RelativeToolTip": "ChatApp.Services\\Helpers\\JwtToken.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:36:53.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "ChatApp.Services\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:43:11.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\TokenModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:56:35.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroupCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Group\\GroupCreateModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\Group\\GroupCreateModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Group\\GroupCreateModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\Group\\GroupCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:26:56.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Group\\GroupModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\Group\\GroupModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Group\\GroupModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\Group\\GroupModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:27:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:24:21.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Group\\GroupUpdateModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\Group\\GroupUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Group\\GroupUpdateModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\Group\\GroupUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:28:01.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Mapping\\MyProfiles.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Mapping\\MyProfiles.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Mapping\\MyProfiles.cs",
+              "RelativeToolTip": "ChatApp.Services\\Mapping\\MyProfiles.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:46:55.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:24:33.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Message\\MessageModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\Message\\MessageModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Message\\MessageModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\Message\\MessageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:58:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:51:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MessageCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Message\\MessageCreateModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\Message\\MessageCreateModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Message\\MessageCreateModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\Message\\MessageCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:09:55.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Message\\MessageUpdateModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\Message\\MessageUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\Message\\MessageUpdateModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\Message\\MessageUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:15:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Entities\\Message.cs",
+              "RelativeToolTip": "ChatApp.Data\\Entities\\Message.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:01:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\User\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\User\\UserModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\User\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:39:54.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\User\\UserUpdateModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\User\\UserUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\User\\UserUpdateModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\User\\UserUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:47:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Entities\\User.cs",
+              "RelativeToolTip": "ChatApp.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:43:24.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\User\\UserCreateModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Models\\User\\UserCreateModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Models\\User\\UserCreateModel.cs",
+              "RelativeToolTip": "ChatApp.Services\\Models\\User\\UserCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:42:58.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Register.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Register.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Register.cs",
+              "RelativeToolTip": "ChatApp.Services\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:15:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChatApp.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\ChatApp.Services.csproj",
+              "RelativeDocumentMoniker": "ChatApp.Services\\ChatApp.Services.csproj",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\ChatApp.Services.csproj",
+              "RelativeToolTip": "ChatApp.Services\\ChatApp.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T12:15:45.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Register.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Register.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Register.cs",
+              "RelativeToolTip": "ChatApp.Data\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:06:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Message\\MessageService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Services\\Message\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Message\\MessageService.cs",
+              "RelativeToolTip": "ChatApp.Services\\Services\\Message\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:54:36.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\MessageRepository\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\MessageRepository\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\MessageRepository\\MessageRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\MessageRepository\\MessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:21:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\IGenericService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\IGenericService.cs",
+              "RelativeToolTip": "ChatApp.Services\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:39:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Group\\GroupService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Services\\Group\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Group\\GroupService.cs",
+              "RelativeToolTip": "ChatApp.Services\\Services\\Group\\GroupService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:57:00.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\GroupRepository\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\GroupRepository\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\GroupRepository\\IGroupRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\GroupRepository\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:29:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Group\\IGroupService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Services\\Group\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Group\\IGroupService.cs",
+              "RelativeToolTip": "ChatApp.Services\\Services\\Group\\IGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:56:32.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Message\\IMessageService.cs",
+              "RelativeDocumentMoniker": "ChatApp.Services\\Services\\Message\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Services\\Services\\Message\\IMessageService.cs",
+              "RelativeToolTip": "ChatApp.Services\\Services\\Message\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:53:16.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:51:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:42:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\MessageRepository\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Repositories\\MessageRepository\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Repositories\\MessageRepository\\IMessageRepository.cs",
+              "RelativeToolTip": "ChatApp.Data\\Repositories\\MessageRepository\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:20:31.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "ChatApp.Data\\Models\\PaginationModel.cs",
+              "ToolTip": "C:\\Users\\Salih Can\\OneDrive\\Masa\u00FCst\u00FC\\chatapp\\ChatApp\\ChatApp.Data\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "ChatApp.Data\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:47:30.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

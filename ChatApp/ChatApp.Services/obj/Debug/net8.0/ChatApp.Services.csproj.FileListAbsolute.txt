@@ -1,0 +1,15 @@
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\bin\Debug\net8.0\ChatApp.Services.deps.json
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\bin\Debug\net8.0\ChatApp.Services.dll
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\bin\Debug\net8.0\ChatApp.Services.pdb
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\bin\Debug\net8.0\ChatApp.Data.dll
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\bin\Debug\net8.0\ChatApp.Data.pdb
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.csproj.AssemblyReference.cache
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.AssemblyInfoInputs.cache
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.AssemblyInfo.cs
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp..15D1CE8D.Up2Date
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.dll
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\refint\ChatApp.Services.dll
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.pdb
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ref\ChatApp.Services.dll
