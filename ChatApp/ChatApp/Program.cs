@@ -1,7 +1,9 @@
 using System.Text;
 using AutoMapper;
+using ChatApp;
 using ChatApp.Data;
 using ChatApp.Data.Entities;
+using ChatApp.Helpers;
 using ChatApp.Services;
 using ChatApp.Services.Mapping;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -38,6 +40,8 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
+
+builder.Services.AddSignalR();
 builder.Services.AddControllers();
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -47,6 +51,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 //Repositories add to service
 builder.Services.RegisterRepositories();
 builder.Services.RegisterServices();
+builder.Services.AddSingleton<ISignalrConnection,SignalrConnection>();
 
 //cors
 var corsPolicyName = "CorsPolicy";
@@ -93,11 +98,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 
-app.UseAuthorization();
+app.UseRouting();
 
-app.MapDefaultControllerRoute();
+//app.MapDefaultControllerRoute();
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+    endpoints.MapHub<ChatHub>("/chathub");
+});
 
 app.UseAuthorization();
 app.Run();
