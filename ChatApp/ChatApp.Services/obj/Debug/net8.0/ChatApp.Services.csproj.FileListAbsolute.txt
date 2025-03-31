@@ -13,3 +13,4 @@ C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debu
 C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\refint\ChatApp.Services.dll
 C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.pdb
 C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ref\ChatApp.Services.dll
+C:\Users\Salih Can\OneDrive\Masaüstü\chatapp\ChatApp\ChatApp.Services\obj\Debug\net8.0\ChatApp.Services.sourcelink.json

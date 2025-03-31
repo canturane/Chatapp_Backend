@@ -186,6 +186,22 @@
     ]
   },
   {
+    "ContainingType": "ChatApp.Controllers.HubController",
+    "Method": "Post",
+    "RelativePath": "api/Hub",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ChatApp.Controllers.MessageController",
     "Method": "Get",
     "RelativePath": "api/Message",
