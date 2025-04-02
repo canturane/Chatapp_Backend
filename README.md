@@ -45,20 +45,28 @@ git clone https://github.com/canturane/Chatapp_Backend.git
 
 cd Chatapp_Backend
 
+---
+
 ### 📁 3. Configure database
 
 "ConnectionStrings": {
   "DefaultConnection": "Your SQL Server or SQLite connection string here"
 }
 
+---
+
 ### 📁 4. Install Dependencies
 
 dotnet restore
+
+---
 
 ### 📁 5. Apply Migrations and Create the Database
 
 dotnet ef migrations add InitialCreate
 dotnet ef database update
+
+---
 
 ### 📁 6. Run the Application
 
